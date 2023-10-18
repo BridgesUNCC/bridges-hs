@@ -1,6 +1,20 @@
 # TAGS: game, 2d grid, vector graphics, real world data, parsing, path finding, linked list
 
 
+- key: 'intro-to-OOP-creating-objects-of-classes'
+  title: 'Intro to OOP: Creating Objects of Classes'
+  summary: 'Introduce learners to creating objects of classes'
+  tags: [  '2d grid' ]
+  difficulty: 'easier'
+  description: 'Using objects of the Symbol and SymbolCollection class to display a collection of rectangle and circle objects in a creative picture.'
+  image_caption: 'Among Us character'
+  topics: [ 'Creating Objects', 'API usage', 'Inheritance' ]
+  java:
+    student_files:
+      - { name: 'Intro to OOP with shapes', link: 'https://docs.google.com/document/d/12seZwHIOxuwScLttgTWX9ud4YlRpfriSSGMVjH9Qk74/edit#heading=h.gjdgxs' }
+    teacher_files:  [ Answer Key', CompletedProject.java' ]
+  documentation: [ 'Bridges', 'SymbolCollection', 'Symbol', 'Circle', 'Rectangle' ]
+
 
 - key: 'aquarium'
   title: 'Aquarium'
@@ -435,18 +449,4 @@
     teacher_files: [ 'Street Map Teacher Walkthrough', 'Street Map Worksheet Answer Key', 'Main.java', 'StreetMap.java' ]
   documentation: [ 'Bridges', 'Color', 'Element', 'GraphAdjList', 'Edge', 'DataSource', 'OsmVertex', 'OsmEdge' ]
 
-
-- key: ‘intro-to-OOP-creating-objects-of-classes'
-  title: ‘Intro to OOP: Creating Objects of Classes’
-  summary: 'Introduce learners to creating objects of classes'
-  tags: [  ‘2d grid’ ]
-  difficulty: ‘easier’
-  description: 'Using objects of the Symbol and SymbolCollection class to display a collection of rectangle and circle objects in a creative picture.'
-  image_caption: ‘Among Us character’
-  topics: [ ‘Creating Objects’, ‘API usage’, ‘Inheritance’ ]
-  java:
-    student_files:
-      - { name: ‘Intro to OOP with shapes’, link: 'https://docs.google.com/document/d/12seZwHIOxuwScLttgTWX9ud4YlRpfriSSGMVjH9Qk74/edit#heading=h.gjdgxs' }
-    teacher_files:  [ Answer Key', CompletedProject.java' ]
-  documentation: [ 'Bridges', 'SymbolCollection', 'Symbol', 'Circle', 'Rectangle’ ]
 
