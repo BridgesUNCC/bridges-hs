@@ -12,7 +12,7 @@
   java:
     student_files:
       - { name: 'Intro to OOP with shapes', link: 'https://docs.google.com/document/d/12seZwHIOxuwScLttgTWX9ud4YlRpfriSSGMVjH9Qk74/edit#heading=h.gjdgxs' }
-    teacher_files:  [ Answer Key', CompletedProject.java' ]
+    teacher_files:  [ 'Answer Key', 'OOPwShapes.java' ]
   documentation: [ 'Bridges', 'SymbolCollection', 'Symbol', 'Circle', 'Rectangle' ]
 
 
