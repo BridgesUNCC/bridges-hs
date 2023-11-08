@@ -4,14 +4,17 @@
 - key: 'intro-to-OOP-creating-objects-of-classes'
   title: 'Intro to OOP: Creating Objects of Classes'
   summary: 'Introduce learners to creating objects of classes'
-  tags: [  '2d grid' ]
+  tags: [ ]
   difficulty: 'easier'
   description: 'Using objects of the Symbol and SymbolCollection class to display a collection of rectangle and circle objects in a creative picture.'
-  image_caption: 'Among Us character'
+  #image_caption: 'Among Us character'
   topics: [ 'Creating Objects', 'API usage', 'Inheritance' ]
   java:
     student_files:
-      - { name: 'Intro to OOP with shapes', link: 'https://docs.google.com/document/d/12seZwHIOxuwScLttgTWX9ud4YlRpfriSSGMVjH9Qk74/edit#heading=h.gjdgxs' }
+      - { name: 'Intro to OOP with Shapes', link: 'https://docs.google.com/document/d/12seZwHIOxuwScLttgTWX9ud4YlRpfriSSGMVjH9Qk74/edit#heading=h.gjdgxs' }
+      - { name: 'RobotMaker.java', link: 'https://drive.google.com/file/d/1r38K-VpnSiMEMTKExYLe5M2Rf0-4rwK2/view?usp=drive_link'}
+      - { name: 'Rec.java', link: 'https://drive.google.com/file/d/1re4Vek1X_ZF_i2BxqrIeoFv80EpVs2P4/view?usp=drive_link'}
+      - { name: 'Circ.java', link: 'https://drive.google.com/file/d/1NFUQs5xYI_s4PRIDeCdHmyd2SLU2uoEn/view?usp=drive_link'}
     teacher_files:  [ 'Answer Key', 'OOPwShapes.java' ]
   documentation: [ 'Bridges', 'SymbolCollection', 'Symbol', 'Circle', 'Rectangle' ]
 
