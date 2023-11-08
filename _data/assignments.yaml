@@ -7,7 +7,7 @@
   tags: [ ]
   difficulty: 'easier'
   description: 'Using objects of the Symbol and SymbolCollection class to display a collection of rectangle and circle objects in a creative picture.'
-  #image_caption: 'Among Us character'
+  # image_caption: 'Among Us character'
   topics: [ 'Creating Objects', 'API usage', 'Inheritance' ]
   java:
     student_files:
