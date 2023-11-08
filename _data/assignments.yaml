@@ -11,7 +11,7 @@
   topics: [ 'Creating Objects', 'API usage', 'Inheritance' ]
   outcomes:
     - { verb: 'Understand', outcome: 'Explain the relationship between a class and an object' }
-    - { verb: 'Understand', outcome: 'Describe: signature, parameter list, formal parameter, actual parameter' }
+    - { verb: 'Understand', outcome: 'Define using examples: signature, parameter list, formal parameter, actual parameter' }
     - { verb: 'Apply', outcome: 'Use a constructor (with or without parameters) of a class in order to create an object of that class' }
     - { verb: 'Apply', outcome: 'Call methods (with or without parameters) on objects' }
     - { verb: 'Create', outcome: 'Use above learned skills in order to display a design of shape objects' }
