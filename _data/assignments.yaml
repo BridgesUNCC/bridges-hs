@@ -9,6 +9,9 @@
   description: 'Using objects of the Symbol and SymbolCollection class to display a collection of rectangle and circle objects in a creative picture.'
   # image_caption: 'Among Us character'
   topics: [ 'Creating Objects', 'API usage', 'Inheritance' ]
+  outcomes:
+    - { verb: 'Apply', outcome: ' ' }
+    - { verb: 'Apply', outcome: ' '}
   java:
     student_files:
       - { name: 'Intro to OOP with Shapes', link: 'https://docs.google.com/document/d/12seZwHIOxuwScLttgTWX9ud4YlRpfriSSGMVjH9Qk74/edit#heading=h.gjdgxs' }
