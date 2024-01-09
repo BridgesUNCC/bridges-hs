@@ -1,4 +1,7 @@
 source "https://rubygems.org"
+
+ruby ">=3.0"
+
 gem "jekyll"
 gem "webrick"
 group :jekyll_plugins do
